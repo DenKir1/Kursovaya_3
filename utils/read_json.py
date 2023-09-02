@@ -1,5 +1,7 @@
 import json
 path = '../operations.json'
+
+
 def read_file(path):
     '''
     :param path: str path to json file
