@@ -8,10 +8,10 @@ def sort_five(array):
     """
     if array:
         a_one = Transaction(*array[0].values())
-        a_two = Transaction(None, None, '0001-08-26T10:50:58.294041', None, None)
-        a_three = Transaction(None, None, '0001-08-26T10:50:58.294041', None, None)
-        a_four = Transaction(None, None, '0001-08-26T10:50:58.294041', None, None)
-        a_five = Transaction(None, None, '0001-08-26T10:50:58.294041', None, None)
+        a_two = Transaction(None, None, '0001-01-01T10:50:58.294041', None, None)
+        a_three = Transaction(None, None, '0001-01-01T10:50:58.294041', None, None)
+        a_four = Transaction(None, None, '0001-01-01T10:50:58.294041', None, None)
+        a_five = Transaction(None, None, '0001-01-01T10:50:58.294041', None, None)
     for i in range(1, len(array)):
 
         if array[i]:  # find not none

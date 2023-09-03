@@ -3,6 +3,7 @@ from utils.read_json import read_file
 
 path = './operations.json'
 
+
 def main(path):
     return sort_five(read_file(path))
 
