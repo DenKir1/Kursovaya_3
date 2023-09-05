@@ -28,4 +28,63 @@
     "from": "MasterCard 7158300734726758",
     "to": ""
   },
+  {
+    "id": 214024827,
+    "state": "EXECUTED",
+    "date": "2018-12-20T16:43:26.929246",
+    "operationAmount": {
+      "amount": "70946.18",
+      "currency": {
+        "name": "USD",
+        "code": "USD"
+      }
+    },
+    "description": "Перевод организации",
+    "from": "Счет 10848359769870775355",
+    "to": "Счет 21969751544412966366"
+  },
+  {
+    "id": 716496732,
+    "state": "EXECUTED",
+    "date": "2018-04-04T17:33:34.701093",
+    "operationAmount": {
+      "amount": "40701.91",
+      "currency": {
+        "name": "USD",
+        "code": "USD"
+      }
+    },
+    "description": "Перевод организации",
+    "from": "Visa Gold 5999414228426353",
+    "to": "Счет 72731966109147704472"
+  },
+  {
+    "id": 594226727,
+    "state": "CANCELED",
+    "date": "2018-09-12T21:27:25.241689",
+    "operationAmount": {
+      "amount": "67314.70",
+      "currency": {
+        "name": "руб.",
+        "code": "RUB"
+      }
+    },
+    "description": "Перевод организации",
+    "from": "Visa Platinum 1246377376343588",
+    "to": "Счет 14211924144426031657"
+  },
+ {
+    "id": 172864002,
+    "state": "EXECUTED",
+    "date": "2018-12-28T23:10:35.459698",
+    "operationAmount": {
+      "amount": "49192.52",
+      "currency": {
+        "name": "USD",
+        "code": "USD"
+      }
+    },
+    "description": "Открытие вклада",
+    "to": "Счет 96231448929365202391"
+  },
   {}]
